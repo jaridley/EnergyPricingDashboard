@@ -1,0 +1,4 @@
+pandas~=1.5.1
+SQLAlchemy~=1.4.44
+SQLAlchemy_Utils==0.38.3
+Psycopg2==2.9.5
