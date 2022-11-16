@@ -1,6 +1,6 @@
 {
   "database_information" : {
-    "alchemy_engine": "postgresql+psycopg2://svcenergydata:Bakusaiga#01@host.docker.internal:5432/energy_data",
+    "alchemy_engine": "postgresql+psycopg2://svcenergydata:<passowrd>@host.docker.internal:5432/energy_data",
     "database_table": "da_exante_lmp"
   }
 }
